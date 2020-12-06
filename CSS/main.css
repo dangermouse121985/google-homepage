@@ -109,7 +109,7 @@ main {
     display: flex;
     position: relative;
     width: 600px; 
-    border:2px solid  lightgrey;
+    border:2px solid  #cdcdcd;
     border-radius: 50px;
 }
 
@@ -150,12 +150,12 @@ input {
 }
 
 .searchBox:hover {
-    box-shadow: 0 0 10px lightgrey;
+    box-shadow: 0 0 10px #cdcdcd;
 }
 
 .searchBox input:focus {
     outline: none !important;
-    box-shadow: 0 0 10px lightgrey; 
+    box-shadow: 0 0 10px #cdcdcd; 
 }
 
 .close-icon {
